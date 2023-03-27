@@ -1,0 +1,15 @@
+A faire:
+-Avoir une mise en forme d'un rapport concret généré par l'Arduino.
+-Sauvegarder les données quelques part (idéalement sous format excel)
+-Implémtenter le filtre de kalman
+
+-Vérfier fonctionnement carte SD
+-Taper le rapport (méthode Coulomb Counting) //Commencé
+-Taper le rapport (Carte SD)
+-Taper le rapport (Accès mémoire => lecture SOC saved+watchdog système)
+______________________________________________________________________________________________________
+Fait:
+-Merge les codes
+-Terminer la méthode "Coulomb Counting"
+-[Presque]Taper le rapport (thingStream)
+-Gestion des accès asynchrones thingStream.
